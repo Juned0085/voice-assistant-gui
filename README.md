@@ -2,7 +2,6 @@
 
 A modern floating voice assistant built using **Python** and **PyQt5**, featuring animated sound wave effects, draggable GUI, voice command recognition, and real-time weather/news display cards.
 
-![Screenshot](mic.png)
 
 ---
 
